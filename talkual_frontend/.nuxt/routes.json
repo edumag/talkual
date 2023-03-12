@@ -1,0 +1,16 @@
+[
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "/home/edu/desarrollo/talkual/talkual_frontend/pages/products.vue",
+    "chunkName": "pages/products",
+    "_name": "_27c450ce"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/edu/desarrollo/talkual/talkual_frontend/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7932c4d8"
+  }
+]
